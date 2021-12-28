@@ -1,0 +1,141 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 1.25em;
+}
+hr {
+    border-style: dotted none none;
+    border-color: #C8C2BC;
+    border-width: 5px;
+    width: 60px;
+    }
+
+h1 {
+  font-size: 4.68rem;
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+.description {
+  font-size: 2rem;
+  font-family: "Source Sans Pro", "Montserrat", sans-serif;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 3rem;
+  font-family: "Source Sans Pro", "Montserrat", sans-serif;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-size: 2.5rem;
+  font-family: "Source Sans Pro", "Montserrat", sans-serif;
+  color: #66BFBF;
+  font-weight: normal;
+}
+p {
+  color: #40514E;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding: 20px 0 0 20px;
+}
+
+
+.middle-container {
+  margin: 50px auto;
+}
+
+.bottom-container {
+}
+
+.cloud1 {}
+
+.cloud2 {
+  position: absolute;
+  left: 60%;
+  bottom: 300px;
+}
+.mountain {
+  position: relative;
+  top: 5px;
+}
+.birds {
+  position: absolute;
+  width: 50px;
+  right: 60%;
+  bottom: 35%;
+}
+.profile{
+    width: 50%;
+    margin:100px auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin:100px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+
+#PicOfMe {
+  width: 150px;
+}
+.Leader {
+  width: 150px;
+  float: left;
+  margin-right: 30px;
+}
+.Learner {
+  width: 150px;
+  float: right;
+  margin-left: 30px;
+}
+
+.bottom-container {
+  background-color: #E4F9F5;
+  padding: 25px 0 25px 0;
+}
+a {
+  color: #11999E;
+  margin: 100px 25px 0 25px;
+  text-decoration: none;
+}
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  text-shadow: 1px 1px 3px #666666;
+  font-family: Arial;
+  color: #E4F9F5;
+  font-size: 15px;
+  background: #11999E;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.end-message {
+  font-size: 1rem;
+  color: #40514E;
+}
+.copyright {
+  color: #93B5C6;
+  padding: 20px 0 20px 0;
+  font-size: 1rem;
+}
