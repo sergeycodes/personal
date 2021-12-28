@@ -133,6 +133,7 @@ a {
 .end-message {
   font-size: 1rem;
   color: #40514E;
+  padding-bottom: 25px;
 }
 .copyright {
   color: #93B5C6;
